@@ -3,7 +3,6 @@
 A Power BI dashboard for enterprise budget performance analysis, providing executive-level insights into spending patterns, departmental efficiency, and financial variance across multiple dimensions.
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-success.svg)]()
 
 ---

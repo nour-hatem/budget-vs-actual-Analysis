@@ -321,23 +321,23 @@ Transaction Table (9,500+ rows)
 ## 📸 Screenshots
 
 ### Executive Summary Page
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](imgs/executive_summary.jpg)
 *High-level KPIs and quarterly spending trends*
 
 ### Departmental Performance
-![Departmental Performance](images/departmental_performance.png)
+![Departmental Performance](imgs/departmental_performance.jpg)
 *Budget vs Actual comparison by department with utilization rates*
 
 ### Category Breakdown
-![Category Breakdown](images/category_breakdown.png)
+![Category Breakdown](imgs/category_breakdown.jpg)
 *Expense category analysis with cross-department view*
 
 ### Regional Efficiency
-![Regional Efficiency](images/regional_efficiency.png)
+![Regional Efficiency](imgs/regional_efficiency.jpg)
 *Geographic performance analysis with transaction trends*
 
 ### Home Dashboard
-![Home Page](images/home_page.png)
+![Home Page](imgs/home_page.png)
 *Navigation hub with visual menu*
 
 ---

@@ -9,8 +9,8 @@ A Power BI dashboard for enterprise budget performance analysis, providing execu
 
 ## 📋 Table of Contents
 
-- [Overview](## 🎯 Overview)
-- [Key Features]()
+- [Overview](##overview)
+- [Key Features](###key-features)
 - [Dashboard Pages](##dashboard-pages)
 - [Key Insights](##key-insights)
 - [Key Metrics & KPIs](##key-metrics--kpis)

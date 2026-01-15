@@ -337,7 +337,7 @@ Transaction Table (9,500+ rows)
 *Geographic performance analysis with transaction trends*
 
 ### Home Dashboard
-![Home Page](imgs/home_page.png)
+![Home Page](imgs/home_page.jpg)
 *Navigation hub with visual menu*
 
 ---

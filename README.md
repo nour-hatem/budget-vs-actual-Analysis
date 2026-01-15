@@ -9,18 +9,13 @@ A Power BI dashboard for enterprise budget performance analysis, providing execu
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Dashboard Pages](#dashboard-pages)
-- [Key Insights](#key-insights)
-- [Technical Implementation](#technical-implementation)
-- [Key Metrics & KPIs](#key-metrics--kpis)
+- [Overview](##overview)
+- [Key Features](##key-features)
+- [Dashboard Pages](##dashboard-pages)
+- [Key Insights](##key-insights)
+- [Key Metrics & KPIs](##key-metrics--kpis)
 - [Business Impact](#business-impact)
 - [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -346,5 +341,7 @@ Transaction Table (9,500+ rows)
 *Navigation hub with visual menu*
 
 ---
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/nour-hatem-)
-- 🌐 Portfolio: [yourwebsite.com](https://nourhatem.netlify.app)
+## 📞 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/nour-hatem-](https://linkedin.com/in/nour-hatem-)
+- 🌐 Portfolio: [nourhatem.netlify.app](https://nourhatem.netlify.app)
